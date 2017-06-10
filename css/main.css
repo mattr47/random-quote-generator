@@ -1,0 +1,20 @@
+html body {
+  background-color: rgba(65,65,65,1.00);
+  color: rgba(220,220,220,1.00);
+}
+
+.container-fluid {
+    padding-top: 70px;
+}
+
+.button {
+  padding-bottom: 20px;
+}
+
+#author {
+  padding-top: 15px;
+}
+
+#tweet {
+  padding-top: 15px;
+}
